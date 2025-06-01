@@ -1,7 +1,10 @@
 # 👋 Hey there, I'm Abdalrahman Alhabib!
 
 ### 🚀 Front-End Developer | IT Engineer
-
+<div align="center" width="50">
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br>
+</div>
 I'm a passionate front-end programmer with expertise in **HTML**, **CSS**, and **JavaScript**. I also have knowledge of **C++** and **Java**, allowing me to dive deeper into software development. My goal is to craft beautiful, high-performing web experiences.
 
 ---
