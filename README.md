@@ -22,6 +22,8 @@ I'm a passionate front-end programmer with expertise in **HTML**, **CSS**, and *
 
 ---
 
+
+---
 ### 💡 What I'm working on:
 - Building dynamic and responsive front-end applications.
 - Exploring more in **React** and modern web technologies.
@@ -36,6 +38,21 @@ I'm a passionate front-end programmer with expertise in **HTML**, **CSS**, and *
 - **Email:** [alhabibabdalrahman4@gmail.com]
 
 ---
+
+### ⚡ GitHub Status:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&langs_count=6&layout=compact&theme=dark&custom_title=Languages%20I%20Code%20In)
+---
+#### 🔥 Additional Language Stats:
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+
+---
+
+
 
 ### 🏆 Fun Fact:
 Did you know? The first website was created by Tim Berners-Lee in **1991**.
