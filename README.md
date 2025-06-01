@@ -31,9 +31,9 @@ I'm a passionate front-end programmer with expertise in **HTML**, **CSS**, and *
 ---
 
 ### 📬 Get in Touch:
-- **LinkedIn:** [Your Profile Link Here]
-- **GitHub:** [Your GitHub Profile]
-- **Email:** [Your Email Here]
+- **LinkedIn:** [https://www.linkedin.com/in/abd-al-rahman-al-habib-0a3439327/]
+- **GitHub:** [abdoz77]
+- **Email:** [alhabibabdalrahman4@gmail.com]
 
 ---
 
